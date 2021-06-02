@@ -1,4 +1,6 @@
 # Direct-Methanol-Fuel-Cell-Range-Extender
+![image](https://user-images.githubusercontent.com/85165363/120513904-641cee00-c3d5-11eb-8de8-60fe5b55160d.png)
+
 ## Intro
 This project represents a viability study on using the DMFC as a range extender in elctric vehicles and also takes the role of my final year project at Loughborough University.
 
