@@ -9,15 +9,18 @@ The aim of this project was to determine the feasibility of using direct methano
 1. Find the number of DMFC cells that would satisfy the charging requirements of the car batteries
 1. Determine the methanol consumption and the required amount of water in terms of the concentrations chosen
 1. Produce range and weight comparisons between the DMFC range extended vehicle and its benchmarked counterparts with hydrogen and gasoline
+2. 
 ## Methanol Fuel Cell Performance
 The obtained voltage-current curve of the DMFC at different methanol concentrations is shown below.
 
 ![image](https://user-images.githubusercontent.com/85165363/120318531-a3b9dc00-c2e8-11eb-9dfb-f9214116d7d1.png)
+
 ## Range Extender System
 The methanol fuel cell would act as a charger to the batteries when their state of charge (SOC) reaches a minimum threshold. The image on the left shows the system flow diagram and the one on the right shows the SOC diagram and how it is recharged by the DMFC at 0.5 M concentration and 40 A. The graph shows that the running time of the batteries and methanol would be just above 65000 sec of NEDC cycle repetitions.
 
 ![image](https://user-images.githubusercontent.com/85165363/120344186-0b305580-c302-11eb-860f-6b1e795e2320.png)
 ![image](https://user-images.githubusercontent.com/85165363/120344354-2ef39b80-c302-11eb-993a-7834f818f66a.png)
+
 ## Comparison vs Hydrogen Fuel Cell and Gasoline Engine Range Extenders
 The table of range and range/system weight comparisons with the PEMFC and gasoline are shown below. The DMFCs at lower concentrations (like 0.5 M) were found to be viable options but would require further work and analysis, whereas the higher concentrations proved to not be viable.
 
