@@ -1,6 +1,7 @@
 # Direct-Methanol-Fuel-Cell-Range-Extender
 ## Intro
 This project represents a viability study on using the DMFC as a range extender in elctric vehicles and also takes the role of my final year project at Loughborough University.
+
 ## Aims and Objectives
 The aim of this project was to determine the feasibility of using direct methanol fuel cells as range extenders in electric vehicles. This was achieved by developing a mathematical model of the fuel cell and the car. The model would have to realistically predict the performance of the DMFC under different conditions and be integrated along with car and battery models that resemble the market variants used for benchmarking. The process required the following objectives:
 1. Obtain valid polarisation (voltage vs current) curves of the fuel cell compared with the experimental data under different thermodynamic parameters and methanol concentrations
@@ -9,7 +10,7 @@ The aim of this project was to determine the feasibility of using direct methano
 1. Find the number of DMFC cells that would satisfy the charging requirements of the car batteries
 1. Determine the methanol consumption and the required amount of water in terms of the concentrations chosen
 1. Produce range and weight comparisons between the DMFC range extended vehicle and its benchmarked counterparts with hydrogen and gasoline
-2. 
+
 ## Methanol Fuel Cell Performance
 The obtained voltage-current curve of the DMFC at different methanol concentrations is shown below.
 
