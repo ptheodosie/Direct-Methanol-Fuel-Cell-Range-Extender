@@ -1,4 +1,4 @@
-# Direct-Methanol-Fuel-Cell-Range-Extender
+# Direct Methanol Fuel Cell Range Extender
 ![image](https://user-images.githubusercontent.com/85165363/120513904-641cee00-c3d5-11eb-8de8-60fe5b55160d.png)
 
 ## Intro
@@ -19,7 +19,7 @@ The obtained voltage-current curve of the DMFC at different methanol concentrati
 ![image](https://user-images.githubusercontent.com/85165363/120318531-a3b9dc00-c2e8-11eb-9dfb-f9214116d7d1.png)
 
 ## Range Extender System
-The methanol fuel cell would act as a charger to the batteries when their state of charge (SOC) reaches a minimum threshold. The image on the left shows the system flow diagram and the one on the right shows the SOC diagram and how it is recharged by the DMFC at 0.5 M concentration and 40 A. The graph shows that the running time of the batteries and methanol would be just above 65000 sec of NEDC cycle repetitions.
+The methanol fuel cell would act as a charger to the batteries when their state of charge (SOC) reaches a minimum threshold. The image on the left shows the system flow diagram and the one on the right shows the SOC diagram and how it is recharged by the DMFC at 0.5 M concentration and 40 A. The graph shows that the running time of the batteries and methanol would be just above 65000 sec of NEDC cycle repetitions. The system manages 5 charges before the methanol tank is drained.
 
 ![image](https://user-images.githubusercontent.com/85165363/120344186-0b305580-c302-11eb-860f-6b1e795e2320.png)
 ![image](https://user-images.githubusercontent.com/85165363/120344354-2ef39b80-c302-11eb-993a-7834f818f66a.png)
